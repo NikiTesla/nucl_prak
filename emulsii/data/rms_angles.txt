@@ -1,0 +1,96 @@
+-------------------------------------
+DataFrame number 0
+
+Coordinate:
+RMS angle : 0.0004435596568285392
+Energy : 160955MeV
+
+Angled:
+RMS angle : 0.0005431104488831572
+Energy : 135258MeV
+
+Another:
+RMS angle : 0.0005143892244565728
+Energy : 141656MeV
+
+
+-------------------------------------
+DataFrame number 1
+
+Coordinate:
+RMS angle : 0.0004207589809685381
+Energy : 168543MeV
+
+Angled:
+RMS angle : 0.0004951428384557928
+Energy : 146356MeV
+
+Another:
+RMS angle : 0.000500411153353528
+Energy : 145034MeV
+
+
+-------------------------------------
+DataFrame number 2
+
+Coordinate:
+RMS angle : 0.0004212915970370964
+Energy : 168356MeV
+
+Angled:
+RMS angle : 0.0005641857665268145
+Energy : 130976MeV
+
+Another:
+RMS angle : 0.0005428038481852441
+Energy : 135323MeV
+
+
+-------------------------------------
+DataFrame number 3
+
+Coordinate:
+RMS angle : 0.0003810100596028575
+Energy : 183934MeV
+
+Angled:
+RMS angle : 0.00047982717710005223
+Energy : 150365MeV
+
+Another:
+RMS angle : 0.0004854106881076914
+Energy : 148874MeV
+
+
+-------------------------------------
+DataFrame number 4
+
+Coordinate:
+RMS angle : 0.00038143468242484753
+Energy : 183753MeV
+
+Angled:
+RMS angle : 0.000507612477360656
+Energy : 143271MeV
+
+Another:
+RMS angle : 0.0005152607981506158
+Energy : 141451MeV
+
+
+-------------------------------------
+DataFrame number 5
+
+Coordinate:
+RMS angle : 0.0004467567107672686
+Energy : 159952MeV
+
+Angled:
+RMS angle : 0.0005469903308130907
+Energy : 134445MeV
+
+Another:
+RMS angle : 0.000535282841635561
+Energy : 136934MeV
+
+
