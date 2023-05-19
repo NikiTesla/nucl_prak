@@ -1,0 +1,4 @@
+average error with N=200, M=200, eps=0.0001 is 0.0011235061827421422
+average error with N=300, M=300, eps=0.0001 is 0.000336410297482651
+average error with N=1000, M=1000, eps=1e-05 is 0.0001729444631140705
+average error with N=100, M=100, eps=1e-05 is 0.0015261916657128762
